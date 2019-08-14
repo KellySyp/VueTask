@@ -2,7 +2,9 @@
 
 I've seen a hundred different to do lists. Write a task, clear it and it's gone. But what if you wanted to go back to that task. What if your coworker asks you to update a program, then weeks later they want another update but forget the program, and you forget too. What if your boss wants a monthly report of your projects, wouldn't it be great to pull up your to do lists from that period?
 
-That's what this task list does. View outstanding tasks, view completed tasks, look up tasks by keyword, or by date range. 
+That's what this task list does. View outstanding tasks, view completed tasks, look up tasks by keyword, or by date range.
+
+Enjoy!!!
 
 ## Project setup
 ```

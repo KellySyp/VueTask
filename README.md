@@ -4,8 +4,6 @@ I've seen a hundred different to do lists. Write a task, clear it and it's gone.
 
 That's what this task list does. View outstanding tasks, view completed tasks, look up tasks by keyword, or by date range.
 
-Enjoy!!!
-
 ## Project setup
 ```
 npm install
